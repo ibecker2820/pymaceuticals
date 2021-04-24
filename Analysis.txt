@@ -1,0 +1,9 @@
+The first thing that we can tell about this test is that the samples were taken as good representations of both a consistent amount of mice being tested
+using each drug and the amount of male and female mice in the total test. This is important for drug testing to make sure there are aren't and biases.
+
+The second observation we should take is looking at the outliers in each of the different drugs at the end of the tests. Infubinol is the only test with
+with an outlier. We should investigate why this outlier might be there.
+
+The final obervation is that we can tell Capomulin has an effect on tumor volume as it is used. The volume of the tumor in mm3 goes down around %50 at the
+end of the trial. This is a significant decrease. It should be further compared against other mice using the same drug. We should also look at how this 
+compares to other drugs. 
